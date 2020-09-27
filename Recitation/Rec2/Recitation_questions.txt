@@ -1,0 +1,11 @@
+1. Write a function draw_line(start, end) which will draw a line from start point to end point. 
+
+2. Write a function draw_triangle(v1, v2, v3) which takes 3 vertices and draws a triangle. Then create 2 triangles,
+	a) Fill the triangle with a single color.
+	b) Only color the boundary of triangle.
+
+3. Write a function draw_polygon(n) which takes number of sides as argument and draws an n-sided polygon.
+Fill the polygon with any single color.
+
+4. Write a function border_polygon(n) which takes number of sides as argument and draws an n-sided polygon. 
+Create a border of the polygon, and fill it with a single color.

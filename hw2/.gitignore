@@ -1,0 +1,13 @@
+.DS_Store
+*~
+auto/
+*.aux
+*.log
+*.out
+*.pdf
+*.json
+*.pyc
+*.json
+
+
+
